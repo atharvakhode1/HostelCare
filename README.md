@@ -2,8 +2,6 @@
 
 A full-stack web application for managing hostel issues, announcements, and lost & found items.
 
-![Demo](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-
 ## 🚀 Features
 
 ### For Students
@@ -51,8 +49,8 @@ A full-stack web application for managing hostel issues, announcements, and lost
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/hostel-issue-tracker.git
-cd hostel-issue-tracker
+git clone https://github.com/YOUR_USERNAME/HostelCare.git
+cd HostelCare
 ```
 
 ### 2. Backend Setup
@@ -95,21 +93,7 @@ Frontend will run on `http://localhost:5173`
 2. **Login**: Use your credentials
 3. **Explore**: Start using the features based on your role
 
-### Test Accounts (After seeding)
-- **Student**: student@test.com / 123456
-- **Staff**: staff@test.com / 123456
-- **Management**: admin@test.com / 123456
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-### Issue Detail
-![Issue Detail](https://via.placeholder.com/800x400?text=Issue+Detail+Screenshot)
-
-### Analytics
-![Analytics](https://via.placeholder.com/800x400?text=Analytics+Screenshot)
 
 ## 🏗️ Project Structure
 ```
@@ -154,17 +138,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 MIT License - feel free to use this project for learning purposes.
-
-## 👨‍💻 Developer
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- Built for [Hackathon Name]
-- Inspired by real hostel management challenges
 
 ---
 
